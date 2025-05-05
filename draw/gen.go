@@ -60,9 +60,7 @@ var (
 		{"*image.RGBA", "*image.NRGBA"},
 		{"*image.RGBA", "*image.RGBA"},
 		{"*image.RGBA", "*image.YCbCr"},
-		{"*image.RGBA", "image.RGBA64Image"},
 		{"*image.RGBA", "image.Image"},
-		{"RGBA64Image", "image.RGBA64Image"},
 		{"Image", "image.Image"},
 	}
 	dTypes, sTypes  []string
